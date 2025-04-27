@@ -12,7 +12,7 @@
 
 Each chapter has its own folder or file, named accordingly:
 
-chapter_1/ chapter_2/ ...
+```chapter_1/ chapter_2/ ...```
 
 Inside each chapter:
 - Kotlin files demonstrating key concepts.
