@@ -6,3 +6,9 @@ class Rectangle (val height:Int, val width: Int){
             return height == width
         }
 }
+
+//호출 테스트
+fun main(){
+    val rectangle = Rectangle(41, 43)
+    println(rectangle.isSquare)
+}
