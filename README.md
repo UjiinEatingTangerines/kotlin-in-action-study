@@ -26,7 +26,7 @@ Inside each chapter:
 
 ## Environment
 
-- Kotlin version: `1.9.0`
+- Kotlin version: `1.9.21`
 - IDE: IntelliJ IDEA (recommended)
 
 ## License
